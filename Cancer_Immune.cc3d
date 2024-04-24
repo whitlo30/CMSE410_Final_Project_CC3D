@@ -1,5 +1,0 @@
-<Simulation version="4.5.0">
-   <XMLScript Type="XMLScript">Simulation/Cancer_Immune.xml</XMLScript>
-   <PythonScript Type="PythonScript">Simulation/Cancer_Immune.py</PythonScript>
-   <Resource Type="Python">Simulation/Cancer_ImmuneSteppables.py</Resource>
-</Simulation>
